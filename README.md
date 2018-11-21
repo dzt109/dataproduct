@@ -1,23 +1,10 @@
----
-title       : Bio builder
-subtitle    : My first Shiny App
-author      : Deepak Trivedi
-job         : Creater
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
----
-
 ## Bio builder
 
-1. Bio builder is my first Shiny App
-2. My objective here was to use as many input and output methods as possible
-3. The following slides will outline the input and output methods used
+Bio builder is my first Shiny app. The URL to the app is https://deeptrivia.shinyapps.io/buildbio/
 
-The URL to the app is https://deeptrivia.shinyapps.io/buildbio/
+I tried to experiment with as many input and output methods as possible. The following slides will outline the input and output methods used
+
+
 
 
 --- .class #id 
